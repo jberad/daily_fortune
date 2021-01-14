@@ -1,0 +1,1 @@
+Simple program using JS to create a daily fortune.  
